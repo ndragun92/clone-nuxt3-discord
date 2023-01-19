@@ -18,7 +18,7 @@
       />
     </div>
     <div class="container">
-      <div class="relative text-center py-60 text-white max-w-[780px] mx-auto">
+      <div class="relative text-center py-40 text-white max-w-[780px] mx-auto">
         <h1 class="text-6xl font-black uppercase">Imagine a place...</h1>
         <p class="mt-10 text-xl">
           ...where you can belong to a school club, a gaming group, or a
