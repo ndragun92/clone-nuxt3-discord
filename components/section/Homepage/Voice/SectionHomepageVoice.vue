@@ -1,6 +1,6 @@
 <template>
   <section class="bg-neutral-100">
-    <div class="container flex items-center py-40">
+    <div class="container flex items-center py-32">
       <div class="flex-1">
         <h2 class="text-4xl font-bold">Where hanging out is easy</h2>
         <p class="mt-10 text-lg">

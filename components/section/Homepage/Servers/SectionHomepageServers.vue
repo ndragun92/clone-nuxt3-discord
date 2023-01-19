@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="container flex items-center py-40">
+    <div class="container flex items-center py-32">
       <div class="flex-2">
         <img src="/img/homepage/servers.svg" alt="" />
       </div>
