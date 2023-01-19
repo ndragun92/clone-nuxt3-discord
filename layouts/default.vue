@@ -2,7 +2,12 @@
   <nav class="h-20 absolute top-0 left-0 right-0 z-10">
     <div class="h-full container flex items-center justify-between">
       <div>
-        <SvgDiscord class="text-white" />
+        <nuxt-link to="/" class="relative">
+          <SvgDiscord class="text-white" />
+          <div class="absolute -top-2 -right-5 text-white font-bold text-xs">
+            Clone
+          </div>
+        </nuxt-link>
       </div>
       <div>
         <ul class="flex items-center gap-10 font-semibold text-white">
