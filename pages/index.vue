@@ -1,9 +1,14 @@
 <template>
-  <div class="p-4">Homepage</div>
+  <div>
+    <SectionHomepageHero />
+  </div>
 </template>
 
 <script lang="ts">
+import SectionHomepageHero from "~/components/section/HomepageHero/SectionHomepageHero.vue";
+
 export default {
   name: "PageHomepage",
+  components: { SectionHomepageHero },
 };
 </script>
