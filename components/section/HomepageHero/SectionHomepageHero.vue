@@ -1,5 +1,5 @@
 <template>
-  <section class="relative bg-[#404eed]">
+  <section class="relative bg-indigo-700">
     <div>
       <img
         src="/img/homepage/mountains.svg"
